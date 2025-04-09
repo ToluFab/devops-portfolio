@@ -6,3 +6,6 @@ Welcome once again to the DevOps Learning Squad with The Coding Mum DevOps Squad
 ## Week 1: Git & GitHub
 - Learned to create repositories
 - Wrote and pushed my first README
+
+
+I want to make new additions lol!!
